@@ -1,0 +1,178 @@
+=====================
+PaymentApiTest_xlsx
+=====================
+Iteration 1: PASSED 
+
+Iteration 2: PASSED 
+
+Iteration 3: PASSED 
+
+Iteration 4: PASSED 
+
+[12-47-06] HTTP Error is displayed.
+Iteration 5: FAILED 
+
+[12-47-06] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-06] Actual amount '28.4' differs from expected ''.
+Iteration 6: FAILED 
+
+[12-47-07] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-07] Actual amount '28.5' differs from expected ''.
+Iteration 7: FAILED 
+
+[12-47-07] Actual amount '28.6' differs from expected '20.1'.
+Iteration 8: FAILED 
+
+[12-47-07] Actual amount '48.5' differs from expected '40'.
+Iteration 9: FAILED 
+
+[12-47-08] Actual amount '10014.400000000001' differs from expected '1000000'.
+Iteration 10: FAILED 
+
+Iteration 11: PASSED 
+
+Iteration 12: PASSED 
+
+[12-47-08] Actual amount '3.9' differs from expected '3.4'.
+Iteration 13: FAILED 
+
+[12-47-09] Actual amount '5.5' differs from expected '5'.
+Iteration 14: FAILED 
+
+[12-47-09] Actual amount '5.8' differs from expected '4.3'.
+Iteration 15: FAILED 
+
+[12-47-09] Actual amount '8.2' differs from expected '6.7'.
+Iteration 16: FAILED 
+
+[12-47-09] Actual amount '8.5' differs from expected '7.0'.
+Iteration 17: FAILED 
+
+[12-47-10] Actual amount '8.7' differs from expected '5.2'.
+Iteration 18: FAILED 
+
+[12-47-10] Actual amount '10.5' differs from expected '7.0'.
+Iteration 19: FAILED 
+
+[12-47-10] Actual amount '12.5' differs from expected '9.0'.
+Iteration 20: FAILED 
+
+[12-47-10] Actual amount '12.65' differs from expected '7.15'.
+Iteration 21: FAILED 
+
+[12-47-11] Actual amount '15.5' differs from expected '10.0'.
+Iteration 22: FAILED 
+
+[12-47-11] Actual amount '15.6' differs from expected '7.1'.
+Iteration 23: FAILED 
+
+[12-47-11] Actual amount '16.5' differs from expected '8.0'.
+Iteration 24: FAILED 
+
+[12-47-11] Actual amount '22.5' differs from expected '14.0'.
+Iteration 25: FAILED 
+
+[12-47-12] Actual amount '32.5' differs from expected '25.0'.
+Iteration 26: FAILED 
+
+[12-47-12] Actual amount '32.6' differs from expected '25.1'.
+Iteration 27: FAILED 
+
+[12-47-12] Actual amount '33.5' differs from expected '26.0'.
+Iteration 28: FAILED 
+
+[12-47-12] Actual amount '33.6' differs from expected '25.1'.
+Iteration 29: FAILED 
+
+[12-47-13] Actual amount '58.5' differs from expected '51.0'.
+Iteration 30: FAILED 
+
+[12-47-13] Actual amount '10014.400000000001' differs from expected '1000000'.
+Iteration 31: FAILED 
+
+[12-47-13] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-13] Actual amount '1' differs from expected ''.
+Iteration 32: FAILED 
+
+[12-47-13] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-13] Actual amount '0.5' differs from expected ''.
+Iteration 33: FAILED 
+
+[12-47-13] HTTP Error is displayed.
+Iteration 34: FAILED 
+
+Iteration 35: PASSED 
+
+Iteration 36: PASSED 
+
+[12-47-14] Actual amount '2.9579999999999997' differs from expected '2.448'.
+Iteration 37: FAILED 
+
+[12-47-14] Actual amount '4.59' differs from expected '4.08'.
+Iteration 38: FAILED 
+
+[12-47-14] Actual amount '4.896' differs from expected '3.366'.
+Iteration 39: FAILED 
+
+[12-47-15] Actual amount '7.343999999999999' differs from expected '5.814'.
+Iteration 40: FAILED 
+
+[12-47-15] Actual amount '7.65' differs from expected '6.12'.
+Iteration 41: FAILED 
+
+[12-47-15] Actual amount '7.854' differs from expected '4.284'.
+Iteration 42: FAILED 
+
+[12-47-15] Actual amount '9.69' differs from expected '6.12'.
+Iteration 43: FAILED 
+
+[12-47-16] Actual amount '11.73' differs from expected '8.16'.
+Iteration 44: FAILED 
+
+[12-47-16] Actual amount '11.883000000000001' differs from expected '6.273'.
+Iteration 45: FAILED 
+
+[12-47-16] Actual amount '14.790000000000001' differs from expected '9.18'.
+Iteration 46: FAILED 
+
+[12-47-16] Actual amount '14.892' differs from expected '6.222'.
+Iteration 47: FAILED 
+
+[12-47-16] Actual amount '15.81' differs from expected '7.14'.
+Iteration 48: FAILED 
+
+[12-47-17] Actual amount '21.93' differs from expected '13.26'.
+Iteration 49: FAILED 
+
+[12-47-17] Actual amount '32.825' differs from expected '24.48'.
+Iteration 50: FAILED 
+
+[12-47-17] Actual amount '32.926' differs from expected '24.582'.
+Iteration 51: FAILED 
+
+[12-47-17] Actual amount '33.835' differs from expected '25.5'.
+Iteration 52: FAILED 
+
+[12-47-18] Actual amount '33.936' differs from expected '25.351'.
+Iteration 53: FAILED 
+
+[12-47-18] Actual amount '58.5' differs from expected '25.602'.
+Iteration 54: FAILED 
+
+[12-47-18] Actual amount '58.6' differs from expected '50.1'.
+Iteration 55: FAILED 
+
+[12-47-18] Actual amount '10014.400000000001' differs from expected '1000000'.
+Iteration 56: FAILED 
+
+[12-47-19] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-19] Actual amount '0' differs from expected ''.
+Iteration 57: FAILED 
+
+[12-47-19] Actual error '' differs from expected 'Your amount is too low'.
+[12-47-19] Actual amount '-0.51' differs from expected ''.
+Iteration 58: FAILED 
+
+[12-47-19] HTTP Error is displayed.
+Iteration 59: FAILED 
+
